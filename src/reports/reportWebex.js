@@ -62,7 +62,6 @@ export default class ReportWebex extends Report {
         axios({
             url: url,
             method: "POST",
-            resposnseType: "json",
             data: {
                 markdown: `**${message}**: ${content.message}` 
             }
