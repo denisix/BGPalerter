@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "@sentry/node": "^5.15.5",
-    "axios": "^0.19.2",
+    "axios": "^0.21.2",
     "batch-promises": "^0.0.3",
     "brembo": "^2.0.3",
     "inquirer": "^7.1.0",
